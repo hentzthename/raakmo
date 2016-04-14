@@ -1,3 +1,23 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  padding-top: 60px;
+}
+
+.navigation {
+  color: #fff;
+  background-color: #000;
+}
+
+.nav > li > a {
+  color: #fff;
+}
+
 div.c-wrapper{
     width: 100%; /* for example */
     margin: auto;
@@ -8,13 +28,6 @@ div.c-wrapper{
 width: 100%; /* use this, or not */
 margin: auto;
 }
-
-.navbar-inverse {
-    background-color: #000000;
-    border-color: #000000;
-}
-
-body { padding-top: 60px; }
 
 .container-fluid ul {
     display: inline-block;
@@ -53,16 +66,6 @@ body { padding-top: 60px; }
 
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
-}
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
 .footer {
   position: absolute;
   bottom: 0;

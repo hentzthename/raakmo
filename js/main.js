@@ -1,21 +1,29 @@
-(function(){
-    var widgetIframe = document.getElementById('sc-widget'),
-        widget       = SC.Widget(widgetIframe);
+$(document).ready(function(){
 
-    widget.bind(SC.Widget.Events.READY, function() {
-      widget.bind(SC.Widget.Events.PLAY, function() {
-        // get information about currently playing sound
-        widget.getCurrentSound(function(currentSound) {
-          console.log('sound ' + currentSound.get('') + 'began to play');
-        });
-      });
-      // get current level of volume
-      widget.getVolume(function(volume) {
-        console.log('current volume value is ' + volume);
-      });
-      // set new volume level
-      widget.setVolume(50);
-      // get the value of the current position
+    /*$("#owl-demo").owlCarousel({
+        navigation : false, // Show next and prev buttons
+        slideSpeed : 1,
+        paginationSpeed : 800,
+        singleItem:true,
+        loop:true,
+        autowidth:true,
+        autoPlay:3000,
+        autoplayHoverPause:false
+        //owl.trigger('autoplay.play.owl',[1000])
+        // "singleItem:true" is a shortcut for:
+        // items : 1, 
+        // itemsDesktop : false,
+        // itemsDesktopSmall : false,
+        // itemsTablet: false,
+        // itemsMobile : false
+    });*/
+
+    $('#myCarousel').carousel({
+        interval: 3000
     });
 
-  }());
+    /*$("item").owlCarousel({
+        center: true
+    });*/
+
+});
