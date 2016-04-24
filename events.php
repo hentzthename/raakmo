@@ -20,7 +20,7 @@
 					<td>Evil Olive</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="http://do312.com/events/2016/4/16/house-music-all-night-long-keith-worthy-chosen-few-s-terry-hunter-gene-hunt-and-more-saturday-april-16th" target="_blank">
+						<a href="https://www.facebook.com/events/1003754189695234/" target="_blank">
 							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>
@@ -31,7 +31,7 @@
 					<td>Trap House</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="http://originaltraphouse.com/#!//" target="_blank">
+						<a href="https://www.facebook.com/events/100150033721638/" target="_blank">
 							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>

@@ -31,17 +31,50 @@
 		</script>
 	</head>
 	<body role="document">
+		<!-- <nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+          			<a class="navbar-brand"><img src="images/RAAKMO_TEXT.png"></a>
+        		</div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a>About</a></li>
+            <li><a>Contact</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="../navbar/">Default</a></li>
+            <li><a href="https://www.facebook.com/Raakmo/" target="_blank"><img src="images/media/facebook.png"></a></li>
+            <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav> -->
+
+
 		<!-- Fixed navbar -->
 		<nav class="navigation navbar-fixed-top">
 			<div class="container-fluid">
 				<div class="navbar-header center-block">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						Menu
+						<!-- <span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span> -->
+					</button>
 					<img class="navbar-brand" src="images/RAAKMO_TEXT.png">
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
-				<!-- Commented out navbar options until the other pages are functional -->
-					<ul class="nav navbar-nav">
+					<ul class="nav navbar-nav navigation">
 				    	<li><a href="index.php">Home</a></li>
-				    	<li><a href="media.php">Media</a></li>
+				    	<li><a href="index.php#media_link">Media</a></li>
 				    	<li><a href="events.php">Events</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
