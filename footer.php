@@ -1,6 +1,6 @@
 			
 		<div id="footer" class="footer">
-			Business Inquiries: raakmomusic@gmail.com
+			bookings / promos / all other inquiries: raakmomusic@gmail.com
 		</div>
 
 		<!-- <form id="footer" class="footer form-horizontal" role="form" method="post" action="index.php">
