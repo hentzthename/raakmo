@@ -36,6 +36,36 @@
 						</a>
 					</td>
 				</tr>
+				<tr>
+					<td>May 27</td>
+					<td>Volkan</td>
+					<td>Chicago, IL</td>
+					<td>
+						<a href="http://theticketrumba.com/tickets/4442" target="_blank">
+							<button type="button" class="btn btn-info">More Info</button>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td>TBD</td>
+					<td>Spring Awakening</td>
+					<td>Chicago, IL</td>
+					<td>
+						<a href="" target="_blank">
+							<button type="button" class="btn btn-info">TBD</button>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td>July 11</td>
+					<td>Evil Olive</td>
+					<td>Chicago, IL</td>
+					<td>
+						<a href="" target="_blank">
+							<button type="button" class="btn btn-info">TBD</button>
+						</a>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 	</div>
