@@ -47,12 +47,22 @@
 					</td>
 				</tr>
 				<tr>
-					<td>TBD</td>
+					<td>June 10</td>
 					<td>Spring Awakening</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="" target="_blank">
-							<button type="button" class="btn btn-info">TBD</button>
+						<a href="https://www.facebook.com/springawakeningfest/" target="_blank">
+							<button type="button" class="btn btn-info">More Info</button>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td>July 8</td>
+					<td>Max Bar</td>
+					<td>Chicago, IL</td>
+					<td>
+						<a href="https://www.facebook.com/events/1734292563525254/" target="_blank">
+							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>
 				</tr>
@@ -61,8 +71,8 @@
 					<td>Evil Olive</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="" target="_blank">
-							<button type="button" class="btn btn-info">TBD</button>
+						<a href="https://www.facebook.com/events/893964564082569/" target="_blank">
+							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>
 				</tr>
