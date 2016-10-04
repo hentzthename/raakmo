@@ -76,6 +76,36 @@
 						</a>
 					</td>
 				</tr>
+				<tr>
+ +					<td>Aug 6</td>
+ +					<td>Evil Olive</td>
+ +					<td>Chicago, IL</td>
+ +					<td>
+ +						<a href="https://www.facebook.com/events/167572940321247/" target="_blank">
+ +							<button type="button" class="btn btn-info">More Info</button>
+ +						</a>
+ +					</td>
+ +				</tr>
+ +				<tr>
+ +					<td>Oct 4</td>
+ +					<td>Trap House</td>
+ +					<td>Chicago, IL</td>
+ +					<td>
+ +						<a href="https://www.facebook.com/events/205404299873189/" target="_blank">
+ +							<button type="button" class="btn btn-info">More Info</button>
+ +						</a>
+ +					</td>
+ +				</tr>
+ +				<tr>
+ +					<td>Oct 8</td>
+ +					<td>Club 18</td>
+ +					<td>Chicago, IL</td>
+ +					<td>
+ +						<a href="https://www.facebook.com/events/313136135712672/" target="_blank">
+ +							<button type="button" class="btn btn-info">More Info</button>
+ +						</a>
+ +					</td>
+ +				</tr>
 			</tbody>
 		</table>
 	</div>
