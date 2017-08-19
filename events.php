@@ -17,21 +17,11 @@
 			<tbody>
 				
 				<tr>
-					<td>August 5, 2017</td>
-					<td>Lolla After Hours</td>
+					<td>August 21, 2017</td>
+					<td>the MID</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="https://www.facebook.com/events/1434708349952034/?acontext=%7B%22ref%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_t=plan_user_invited&notif_id=1500570702790483" target="_blank">
-							<button type="button" class="btn btn-info">More Info</button>
-						</a>
-					</td>
-				</tr>
-				<tr>
-					<td>June 9, 2017</td>
-					<td>Spring Awakening</td>
-					<td>Chicago, IL</td>
-					<td>
-						<a href="http://www.springawakeningfestival.com/" target="_blank">
+						<a href="https://www.facebook.com/events/472619549787761/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22messaging%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22attachment%5C%22%2C%5C%22extra_data%5C%22%3A%7B%7D%7D]%22%7D" target="_blank">
 							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>
