@@ -17,11 +17,11 @@
 			<tbody>
 				
 				<tr>
-					<td>August 21, 2017</td>
-					<td>the MID</td>
+					<td>June 9, 2018</td>
+					<td>Addams-Medill Park</td>
 					<td>Chicago, IL</td>
 					<td>
-						<a href="https://www.facebook.com/events/472619549787761/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22messaging%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22attachment%5C%22%2C%5C%22extra_data%5C%22%3A%7B%7D%7D]%22%7D" target="_blank">
+						<a href="https://www.springawakeningfestival.com/" target="_blank">
 							<button type="button" class="btn btn-info">More Info</button>
 						</a>
 					</td>
